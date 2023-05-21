@@ -1,0 +1,15 @@
+C:\Users\Iwan\Desktop\Exampless\Exampless001_HelloConsole\bin\Debug\net6.0\Exampless001_HelloConsole.exe
+C:\Users\Iwan\Desktop\Exampless\Exampless001_HelloConsole\bin\Debug\net6.0\Exampless001_HelloConsole.deps.json
+C:\Users\Iwan\Desktop\Exampless\Exampless001_HelloConsole\bin\Debug\net6.0\Exampless001_HelloConsole.runtimeconfig.json
+C:\Users\Iwan\Desktop\Exampless\Exampless001_HelloConsole\bin\Debug\net6.0\Exampless001_HelloConsole.dll
+C:\Users\Iwan\Desktop\Exampless\Exampless001_HelloConsole\bin\Debug\net6.0\Exampless001_HelloConsole.pdb
+C:\Users\Iwan\Desktop\Exampless\Exampless001_HelloConsole\obj\Debug\net6.0\Exampless001_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\Iwan\Desktop\Exampless\Exampless001_HelloConsole\obj\Debug\net6.0\Exampless001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iwan\Desktop\Exampless\Exampless001_HelloConsole\obj\Debug\net6.0\Exampless001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\Iwan\Desktop\Exampless\Exampless001_HelloConsole\obj\Debug\net6.0\Exampless001_HelloConsole.AssemblyInfo.cs
+C:\Users\Iwan\Desktop\Exampless\Exampless001_HelloConsole\obj\Debug\net6.0\Exampless001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Iwan\Desktop\Exampless\Exampless001_HelloConsole\obj\Debug\net6.0\Exampless001_HelloConsole.dll
+C:\Users\Iwan\Desktop\Exampless\Exampless001_HelloConsole\obj\Debug\net6.0\refint\Exampless001_HelloConsole.dll
+C:\Users\Iwan\Desktop\Exampless\Exampless001_HelloConsole\obj\Debug\net6.0\Exampless001_HelloConsole.pdb
+C:\Users\Iwan\Desktop\Exampless\Exampless001_HelloConsole\obj\Debug\net6.0\Exampless001_HelloConsole.genruntimeconfig.cache
+C:\Users\Iwan\Desktop\Exampless\Exampless001_HelloConsole\obj\Debug\net6.0\ref\Exampless001_HelloConsole.dll
